@@ -1,0 +1,12 @@
+# Ignore Eclipse settings
+.settings/
+.classpath
+.project
+
+# Ignore compiled output
+bin/
+*.class
+
+# Ignore system files
+.DS_Store
+Thumbs.db

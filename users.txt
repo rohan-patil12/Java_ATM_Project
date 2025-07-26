@@ -1,0 +1,9 @@
+8989898,1890,8971056.0,900266.0
+9876543,9876,9.90001E8,500.0
+💼 Java ATM Simulation Project
+Technologies: Java, PostgreSQL, JDBC, SQL
+
+- Developed a console-based ATM application to simulate banking operations (withdraw, deposit, balance check).
+- Implemented JDBC for database connectivity with PostgreSQL to persist user data and transaction history.
+- Designed normalized SQL schema with user and transaction tables.
+- Handled input validation, transaction logging, and SQL error management for robust backend logic.
